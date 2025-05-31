@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Item 1",
+      "email": "item1@test.com",
+      "date": "2024-01-01",
+      "status": "active",
+      "field5": "value1",
+      "field6": "value2"
+    },
+    {
+      "id": "2",
+      "name": "Item 1",
+      "email": "item1@test.com",
+      "date": "2024-01-01",
+      "status": "active",
+      "field5": "value1",
+      "field6": "value2"
+    },
+    {
+      "id": "3",
+      "name": "Item 1",
+      "email": "item1@test.com",
+      "date": "2024-01-01",
+      "status": "active",
+      "field5": "value1",
+      "field6": "value2"
+    },
+    {
+      "id": "4",
+      "name": "Item 1",
+      "email": "item1@test.com",
+      "date": "2024-01-01",
+      "status": "active",
+      "field5": "value1",
+      "field6": "value2"
+    },
+    {
+      "id": "a127",
+      "name": "вавыа",
+      "email": "item@item",
+      "date": "11111-11-11",
+      "status": "inactive",
+      "field5": "аыавываыфа"
+    },
+    {
+      "id": "b9f9",
+      "name": "вавыа",
+      "email": "item@item",
+      "date": "11111-11-11",
+      "status": "inactive",
+      "field5": "аыавываыфа"
+    },
+    {
+      "id": "4389",
+      "name": "вавыа",
+      "email": "item@item",
+      "date": "11111-11-11",
+      "status": "inactive",
+      "field5": "аыавываыфа"
+    },
+    {
+      "id": "fe4e",
+      "name": "вавыа",
+      "email": "item@item",
+      "date": "11111-11-11",
+      "status": "inactive",
+      "field5": "аыавываыфа"
+    },
+    {
+      "id": "65a3",
+      "name": "artem",
+      "email": "item@item.ru",
+      "date": "1996-04-12",
+      "status": "active",
+      "field5": "value"
+    },
+    {
+      "id": "1c30",
+      "name": "artem",
+      "email": "item@item.ru",
+      "date": "2000-02-11",
+      "status": "active",
+      "field5": "value"
+    },
+    {
+      "id": "da84",
+      "name": "dfsfs",
+      "email": "dfsf@fdsf",
+      "date": "1111-11-11",
+      "status": "active",
+      "field5": "ssafsfasf"
+    },
+    {
+      "id": "e2fe",
+      "name": "фывфы",
+      "email": "ifsdfs@asfs",
+      "date": "1111-11-11",
+      "status": "active",
+      "field5": "dfsfsf"
+    },
+    {
+      "id": "4ebc",
+      "name": "ewrw",
+      "email": "wer@sdasd",
+      "date": "1989-04-12",
+      "status": "active",
+      "field5": "sfdfsf"
+    }
+  ]
+}
